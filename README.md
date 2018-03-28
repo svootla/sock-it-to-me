@@ -3,7 +3,7 @@
 Who wants socks at TrailheaDX 2018?
 
 ![QR Code to this repo](https://goo.gl/eoho2z.qr)
-
+sundeep
 Just submit a pull request :smile:
 1. Open [Readme.md](https://github.com/salesforce/sock-it-to-me/edit/master/README.md) at https://goo.gl/eoho2z
 2. Add your name in the readme.md file
